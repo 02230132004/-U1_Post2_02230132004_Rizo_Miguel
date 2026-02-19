@@ -9,6 +9,6 @@ Este repositorio implementa GitFlow con Conventional Commits para un proyecto m√
 - Miguel Rizo (solo)
 
 ## Instrucciones
-- Clonar: git clone https://github.com/tuusuario/U1_Post2_02230132004_Rizo_Miguel.git
+- Clonar: https://github.com/02230132004/-U1_Post2_02230132004_Rizo_Miguel.git
 - Cambiar a develop: git checkout develop
 
