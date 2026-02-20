@@ -32,7 +32,7 @@ Todos los merges se realizaron con **Create a merge commit** (equivalente a --no
 
 ![Diagrama de flujo de ramas GitFlow](diagrama-flujo-ramas.png)
 
-![Historial Git completo](historial-git.png)
+![Historial Git completo](historial.git.png)
 
 ## Convenciones utilizadas
 - **Conventional Commits**: todos los mensajes siguen el formato `<type>(scope): <descripción>`  
