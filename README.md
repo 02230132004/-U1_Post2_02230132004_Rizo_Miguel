@@ -62,4 +62,3 @@ git log --oneline --graph --all --decorate
 # Ver tags de versiones
 git tag -l
 
-FIX (hotfix 1.0.1): corregido error tipográfico en la línea "clon" → ahora dice "clone".
